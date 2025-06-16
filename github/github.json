@@ -1,5 +1,6 @@
 {
     "Sequential Thinking MCP Server": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
-    "GenAI-Game-LangGraph": "https://github.com/Vijeth-Rai/GenAI-Game-LangGraph"
+    "GenAI-Game-LangGraph": "https://github.com/Vijeth-Rai/GenAI-Game-LangGraph",
+    "tool_anywhere_agent": "https://github.com/madprofessor42/tool_anywhere_agent",
+    "11 Lessons to Get Started Building AI Agents": "https://github.com/microsoft/ai-agents-for-beginners"
 }
-  
